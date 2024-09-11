@@ -1,21 +1,26 @@
 body{
-    background-color: #f8f9fa;
+    background-color: darkgreen;
     font-family: 'Nunito', sans-serif;
     font-size: 16px;
-    color: #333;
+    color: #fff  ;
+
+}
+
+img {
+    width: 50%;
 
 }
 
 header
 {
-    background-color: #343a40;
-    color: #fff;
+    background-color: yellow;
+    color: blue;
     padding: 10px 0;
     text-align: center;
 }
 a
 {
-    color: #fff;
+    color: blue;
     text-decoration: none;
 }
 a:hover
@@ -52,7 +57,7 @@ form{
     display: inline-block;
     padding: 1rem;
     margin: 2rem 0;
-    background-color: aquamarine;
+    background-color: darkblue;
     border: #333 1px solid;
     border-radius: 5px;
 }
@@ -63,8 +68,8 @@ form{
 }
 
 footer{
-    background-color: #343a40;
-    color: #fff;
+    background-color: yellow;
+    color: blue;
     padding: 10px 0;
     text-align: center;
 }
