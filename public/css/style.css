@@ -1,0 +1,65 @@
+body{
+    background-color: #f8f9fa;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color: #333;
+
+}
+
+header
+{
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+a
+{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover
+{
+    color: red;
+    text-decoration: none;
+}
+.container
+{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+h1, h2, h3
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.form-group{
+    margin: 1rem 0;
+}
+
+label{
+    cursor: pointer;
+    display: inline-block;
+    min-width: 140px;
+    vertical-align: top;
+}
+
+.form-input{
+    width: 600px;
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+}
+
+footer{
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
